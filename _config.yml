@@ -1,9 +1,9 @@
 # Site settings
 title: SMU - 경영빅데이터분석 서태민의 블로그
-url: "http://yunho0130.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+url: "http://taemin94.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "/" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
 timezone: Asia/Seoul
-description: >
+description: 수업 내용 정리용 블로그입니다.
   description
 
 # Your information
@@ -14,6 +14,7 @@ avatar: https://github.com/taemin94/taemin94.github.io/blob/master/media/KakaoTa
 profile: <br> 수업 내용을 요약 정리하는 블로그
 #twitter_username: twitter_username
 github_username:  taemin94
+
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
